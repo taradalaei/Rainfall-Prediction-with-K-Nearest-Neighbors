@@ -1,0 +1,2 @@
+# Rainfall Prediction with K-Nearest Neighbors
+ This project demonstrates a machine learning pipeline for predicting rainfall using a K-Nearest Neighbors (K-NN) classifier. The dataset used is the BOM (Bureau of Meteorology) dataset, and the code includes data preprocessing, feature selection, model training, and evaluation. Additionally, the pipeline is applied to predict rainfall probabilities for a new dataset from Rasht.
